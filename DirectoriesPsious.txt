@@ -1,5 +1,0 @@
-Assets
-EditorPsious
-Scripts
-Plugins
-Resources
